@@ -39,6 +39,16 @@ Currently exploring further improvements and fine-tuning.
 <img width="590" height="490" alt="download (18)" src="https://github.com/user-attachments/assets/8f350b0a-0718-4606-82ed-031dd869f9d9" />
 <img width="913" height="522" alt="image" src="https://github.com/user-attachments/assets/61095466-35e7-4e34-ad60-be657cd14050" />
 <img width="797" height="555" alt="image" src="https://github.com/user-attachments/assets/aa6299ba-4dd0-4f6f-9cbd-96f49493126f" />
+# Result
+After building the website, it can predict eye diseases along with the confidence level and the probability of all classes.
+<img width="1022" height="666" alt="image5 (Gray Scale Image Upload)" src="https://github.com/user-attachments/assets/8c5aac94-86e7-4422-8fa9-365328959c19" />
+<img width="1495" height="767" alt="image6 (Gray Scale Image Prediction)" src="https://github.com/user-attachments/assets/8823b260-134a-4fcd-a526-39234141ef83" />
+<img width="1468" height="720" alt="image7 (RGB Image Upload)" src="https://github.com/user-attachments/assets/ae831efd-398c-4219-a5a1-5caf0a813f19" />
+<img width="1480" height="765" alt="image8 (RGB Image Prediction)" src="https://github.com/user-attachments/assets/38ac7a4a-645e-4cbc-ac57-f673eae08daf" />
+
+
+
+
 
 
 
